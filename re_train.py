@@ -26,8 +26,5 @@ def main():
     training(all_lost_avg, all_lost_result, epoch, model, num_epochs, optimizer)
 
 
-
-
-
 if __name__ == '__main__':
     main()
